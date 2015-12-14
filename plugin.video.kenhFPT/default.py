@@ -76,7 +76,7 @@ def get_categories():
 	add_link('', '[COLOR lime]THETHAO TV HD[/COLOR]', 0, 'udp://@225.1.2.241:30120', thumbnails + 'htvcthethaotvhd.png', '')
 	add_link('', '[COLOR lime]THETHAO TV[/COLOR]', 0, 'udp://@225.1.2.158:30120', thumbnails + 'vtvcab3.png', '')
 	add_link('', '[COLOR lime]BONGDA TV HD[/COLOR]', 0, 'udp://@225.1.2.243:30120', thumbnails + 'vtccabbongdahd.png', '')
-	add_link('', '[COLOR lime]BONGDA TV[/COLOR]', 0, 'udp://@225.1.1.2:30120', thumbnails + 'vtvcab-16.png', '')
+	add_link('', '[COLOR lime]BONGDA TV[/COLOR]', 0, 'udp://@225.1.2.160:30120', thumbnails + 'vtvcab-16.png', '')
 	add_link('', '[COLOR lime]VTVCab 1-Giai tri TV[/COLOR]', 0, 'udp://@225.1.2.150:30120', thumbnails + 'vtvcab1.png', '')
 	add_link('', '[COLOR lime]VTVCab 2-Phim Viet[/COLOR]', 0, 'udp://@225.1.2.159:30120', thumbnails + 'vtvcab2.png', '')
 	add_link('', '[COLOR lime]VTVCab 4-Van Hoa[/COLOR]', 0, 'udp://@225.1.2.153:30120', thumbnails + 'vanhoa.png', '')
